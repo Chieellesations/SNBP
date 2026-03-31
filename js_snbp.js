@@ -102,7 +102,7 @@ function playMaaf() {
             if(ddd==0){
                 ddd=1
             setTimeout(function(){
-            alert("Kalau suka sama webnya, share sama yang lain biar banyak yang tau. IG Author dan Kolom Komentar tertera di menu atas. Jika menunya telah disembunyikan, klik logo SNBP untuk mengembalikannya. SNBP GENERATOR 2024")}, 10000)
+            alert("Kalau suka sama webnya, share sama yang lain biar banyak yang tau. IG Author dan Kolom Komentar tertera di menu atas. Jika menunya telah disembunyikan, klik logo SNBP untuk mengembalikannya. SNBP GENERATOR 2026")}, 10000)
             }
             document.getElementById('jenjang').textContent = document.getElementById('dropdownBoxes').value
         }
@@ -172,7 +172,7 @@ function playMaaf() {
             const thnElements = document.getElementsByTagName("thn")
 
             for (let i = 0; i < thnElements.length; i++) {
-                thnElements[i].textContent = value || "2025"
+                thnElements[i].textContent = value || "2026"
             }
         }
 
