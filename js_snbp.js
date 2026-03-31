@@ -39,17 +39,10 @@ function playMaaf() {
     );
 }
 
-
-        function goComment(){
-            var comment = confirm('Beri pendapat anda tentang website ini, komentarmu bisa dilihat sama yang lain juga! Tekan OK untuk ke webnya (secreto.site)')
-            if(comment){
-                window.location.href = "https://secreto.site/am1ic7"
-            }
-        }
         function alertAuthor(){
-            var author = confirm('Author website ini adalah orang yang terjebak, anda juga? IG @anugrahspsb, Klik OK untuk ke IG. (instagram.com)')
+            var author = confirm('Author website ini adalah orang yang terjebak, anda juga? IG @chieellesaxions, Klik OK untuk ke IG. (instagram.com)')
             if(author){
-            window.location.href = "https://instagram.com/_u/anugrahspsb"
+            window.location.href = "https://instagram.com/_u/chieellesaxions"
             }
         }
         let abb=0
@@ -64,12 +57,7 @@ function playMaaf() {
         }
         function alertTutorial(){
             alert("Isi setiap kolom kosong yang tersedia di website seperti kolom nama, nisn, nomor registrasi, tanggal lahir, dll. Khusus untuk NISN dan Nomor Registrasi disediakan tombol Randomize untuk memasukkan nilai random ke kolom NISN dan NoReg. Jika telah mengisi seluruhnya, silahkan klik GENERATE untuk melihat hasilnya. Jika ada bagian yang kosong ketika melihat hasilnya, silakan cek ulang kolom dan isi kolom yang masih kosong.")}
-        function alertFeedback() {
-            var result = confirm("Beri masukan anda mengenai website ini, saran dan kritik akan diapresiasi (sebenarnya ada error di kodenya cuman ntah dimana mau bantu ga pls)! (ngl.link)");
-            if (result) {
-                window.location.href = "https://ngl.link/anugrahspsb48124"
-            }
-        }
+        
         function alertNote() {
             alert("Web ini dibuat untuk membuat fake lolos snbp dengan semata-mata untuk tujuan for fun saja. Tidak ada data inputan apapun yang akan dikirim keluar. Harap gunakan dengan bijak! Developer tidak bertanggung jawab atas penyalahgunaan website.");
         }
@@ -188,17 +176,5 @@ function playMaaf() {
             }
         }
 
-        function bantuAku() {
-            var result = confirm("Ayo daftar lomba, boleh buat anak kuliah atau anak SMA/ sederajat, lomba ngoding/ ui ux/ paper/ poster, mending klen daftar sekarang dah sebelum tutup, cocok buat persiapan mental sebelum SNBT ATAU KASI TAU KE TEMEN KLEN YANG JAGO NGODING (s.id)");
-            if (result) {
-                window.location.href = "https://s.id/CodeFestUSU"
-            }
-        }
-
-        function otodu() {
-            var result = confirm("Merah di SNBP? Ga tau cara mulai SNBT? Educomms by OTODU siap bantu kamu! Ini btw dari author dan 100% free, isi aja formnya sungguh sungguh dan join grup whatsapp untuk komunikasi antar peserta UTBK Educomms lainnya! (forms.gle)");
-            if (result) {
-                window.location.href = "https://forms.gle/deCc9oNN8FgUBnQZ9"
-            }
-        }
+       
     
